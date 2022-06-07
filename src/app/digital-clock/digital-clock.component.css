@@ -1,0 +1,29 @@
+.digital-clock{
+    background-color: black;
+    height: 100px;
+    width: 420px;
+    position: relative;
+    top: 200px;
+}
+.absolute{
+    position: absolute;
+}
+.hour2{
+    left: 65px;
+}
+.background{
+    background-color: black;
+}
+.min1{
+    left:150px;
+}
+.min2{
+    left:205px;
+}
+.sec1{
+  left:290px;
+}
+.sec2{
+    left:350px;
+
+}

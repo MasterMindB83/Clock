@@ -1,0 +1,21 @@
+.absolute{
+    position: absolute;
+}
+.secundas{
+    left: 47px;
+    top: 47px;
+}
+.minutes{
+    
+    left: 42px;
+    top: 42px;
+}
+.hours{
+    
+    left: 58px;
+    top: 58px;
+}
+.analog-clock
+{
+    position: relative;
+}
